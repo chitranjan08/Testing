@@ -1,1 +1,1 @@
-This is to learn about basic git command
+This is to learn about basic git command. For a developer it is very important to learn some git command.
